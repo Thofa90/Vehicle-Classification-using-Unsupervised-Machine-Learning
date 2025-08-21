@@ -92,6 +92,7 @@ All required libraries for EDA, preprocessing, dimensionality reduction, cluster
 ## 7️⃣ Evaluation
 
 Metrics Used:
+
 	•	Adjusted Rand Index (ARI): 0.1219 → very poor alignment with actual labels.
 	•	Silhouette Score (Raw KMeans): 0.3015 → weak clustering (overlaps).
 	•	Silhouette Score (KMeans + PCA): 0.4124 → moderate cluster separation.
@@ -105,7 +106,7 @@ Metrics Used:
 
 ⸻
 
-# 8️⃣ Conclusion
+## 8️⃣ Conclusion
 	•	Unsupervised learning was not effective for precise classification of Bus, Car, and Van.
 	•	Clusters showed moderate separability (PCA + KMeans) but poor alignment with ground-truth labels.
 	•	Best use of this pipeline:
