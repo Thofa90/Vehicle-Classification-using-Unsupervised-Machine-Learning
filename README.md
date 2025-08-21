@@ -49,7 +49,7 @@ All required libraries for EDA, preprocessing, dimensionality reduction, cluster
 
 	•	Dataset used: Vehicle Dataset (multiclass: Bus, Car, Van).
 	•	Initial shape: (846, 19) (before preprocessing).
-    dataset link: https://drive.google.com/file/d/11kXoTwaCsDHxCYSA-Cs8JugxY_kNUqjQ/view?usp=sharing
+**dataset link:** https://drive.google.com/file/d/11kXoTwaCsDHxCYSA-Cs8JugxY_kNUqjQ/view?usp=sharing
 
 ⸻
 
